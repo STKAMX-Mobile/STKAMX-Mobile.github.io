@@ -1,0 +1,3 @@
+<Files ".well-known/apple-app-site-association">
+    ForceType application/json
+</Files>
