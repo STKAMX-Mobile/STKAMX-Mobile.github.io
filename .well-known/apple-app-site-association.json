@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "39NKR44R3Y.com.aeromexico.aeromexico.ec",
+                "appID": "9K65598CG7.com.aeromexico.aeromexico.ec",
                 "paths": ["*"],
                 "components": [{"/": "/*"}]    
             }
