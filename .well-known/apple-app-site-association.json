@@ -1,15 +1,11 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: [
+    "applinks": {
+        "apps": [],
+        "details": [
             {
-                “appID”: “39NKR44R3Y.com.aeromexico.aeromexico.ec”,
-                “paths”: [“*”],
-                "components": [
-                  {
-                    "/": "/*"
-                  }
-                ]
+                "appID": "39NKR44R3Y.com.aeromexico.aeromexico.ec",
+                "paths": ["*"],
+                "components": [{"/": "/*"}]    
             }
         ]
     }
