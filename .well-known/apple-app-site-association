@@ -6,6 +6,21 @@
                 "appID": "9K65598CG7.com.aeromexico.aeromexico.ec",
                 "paths": ["*"],
                 "components": [{"/": "/*"}]    
+            },
+            {
+                "appID": "9K65598CG7.com.aeromexico.aeromexico",
+                "paths": ["*"],
+                "components": [{"/": "/*"}]    
+            },
+            {
+                "appID": "9K65598CG7.com.aeromexico.aeromexico.preprod",
+                "paths": ["*"],
+                "components": [{"/": "/*"}]    
+            },
+            {
+                "appID": "9K65598CG7.com.aeromexico.aeromexico.cert",
+                "paths": ["*"],
+                "components": [{"/": "/*"}]    
             }
         ]
     }
